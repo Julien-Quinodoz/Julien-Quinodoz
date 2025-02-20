@@ -33,6 +33,8 @@ Actuellement étudiant en programmation informatique à l'[École 42 Lausanne](h
 - 📊 HES Ritzy TechnoPôle Sierre (2014-2015) - Gestionnaire e-marketing et réseaux sociaux
 - 🏗️ Centre de Formation Professionnelle Sion (1996-2000) - CFC de mécatronicien automobile
 
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Julien-Quinodoz&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&hide=stars"/>
+
 ## 📫 Me contacter
  
 - 📍 Basé à Sion, Suisse
