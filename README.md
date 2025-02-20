@@ -1,16 +1,19 @@
-## Salut, je suis Julien 👋
+# 👋 Salut, moi c'est Julien !
 
-<!--
-**Julien-Quinodoz/Julien-Quinodoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en informatique à l'[école 42 Lausanne](https://42lausanne.ch/)  
+🚀 Passionné par le développement, l'organisation d'événements et les projets créatifs  
+🌍 Basé à Sion, Suisse  
 
-Here are some ideas to get you started:
+## 🛠️ Compétences
+- 💻 C, Shell, Git
+- 📝 Gestion de projets, communication
+- 🧠 Résolution de problèmes complexes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projets récents
+- 🎭 [Carnaval 2025 - Organisation et logistique](#)  
+- 🌿 [Festival Nomad Land 2025 - Sponsoring](#)  
+- 🧩 [push_swap - Projet école 42](#)
+
+## 📫 Me contacter
+- [LinkedIn](https://www.linkedin.com/in/ton-lien)  
+- [Email](mailto:ton.email@example.com)  
