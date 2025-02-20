@@ -19,6 +19,8 @@ Actuellement étudiant en programmation informatique à l'[École 42 Lausanne](h
 - **Marketing digital** : Stratégie, fidélisation, gestion des réseaux sociaux
 - **Amélioration continue** : Optimisation et innovation dans les processus métiers
 
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Nesplee&theme=react-dark&hide_border=true"/>
+
 ## 🧩 Projets récents et en cours
 
 - 🌿 Sponsoring du [Festival Nomad Land 2025](#)
