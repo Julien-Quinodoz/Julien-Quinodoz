@@ -1,3 +1,4 @@
+<div align="center">
 # 👋 Salut, moi c'est Julien 
 
 Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gestion d'entreprises dans les secteurs de la restauration et des services.
