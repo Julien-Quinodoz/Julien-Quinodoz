@@ -47,6 +47,7 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 - 📍 Basé à Sion, Suisse
 - [LinkedIn](https://www.linkedin.com/in/julien-quinodoz/)  
 - [Email](mailto:jquinodo@student.42lausanne.ch)
+- 👉 [Rejoins-moi sur Discord](https://discord.gg/VGF4pVYh) !
 - ✉️ Disponible pour des collaborations et projets innovants
 
 ---
