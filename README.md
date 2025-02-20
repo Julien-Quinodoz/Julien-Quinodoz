@@ -4,7 +4,7 @@ Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gest
 
 ## 🚀 À propos
 
-- 💼 Fondateur et dirigeant de plusieurs entreprises à succès : Fresh Services Sàrl, Fresh Sandwich, HEJ Grain de Sel Sàrl & DJE Penalty Café-bar.
+- 💼 Fondateur et dirigeant de plusieurs entreprises à succès : Fresh Services Sàrl, Fresh Sandwich, HEJ Grain de Sel Sàrl & DJE Penalty sàrl.
 - 🎓 Étudiant à l'École 42 Lausanne (2024-2027) - Programmation, développement web, conception de logiciels, et résolution de problèmes.
 - 🌱 Toujours passionné par l'innovation et l'amélioration continue, ouvert aux opportunités dans la tech et le digital.
 
@@ -30,9 +30,10 @@ Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gest
 - 🏗️ Centre de Formation Professionnelle Sion (1996-2000) - CFC de mécatronicien automobile
 
 ## 📫 Me contacter
-
-- [LinkedIn](https://www.linkedin.com/in/julien-quinodoz-14834ba3/)
+ 
 - 📍 Basé à Sion, Suisse
+- [LinkedIn](https://www.linkedin.com/in/ton-lien)  
+- [Email](mailto:jquinodo@student.42lausanne.ch)
 - ✉️ Disponible pour des collaborations et projets innovants
 
 ---
