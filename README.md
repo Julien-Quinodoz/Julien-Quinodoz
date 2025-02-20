@@ -1,4 +1,4 @@
-## Hi there 👋
+## Salut, je suis Julien 👋
 
 <!--
 **Julien-Quinodoz/Julien-Quinodoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
