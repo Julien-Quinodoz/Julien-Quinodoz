@@ -20,6 +20,12 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 - **Informatique** : Programmation en C, développement web, gestion de bases de données (SGBD)
 - **Marketing digital** : Stratégie, fidélisation, gestion des réseaux sociaux
 - **Amélioration continue** : Optimisation et innovation dans les processus métiers
+- DJ & Producteur de Musique Électronique :
+
+[![Écoute sur Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/intl-fr/artist/3LOgBPOUZe1PuvLr7U7cDB?si=gL3orSrJTVmXaoYVcuIM-w)
+
+
+
 
 ## 🧩 Projets récents et en cours
 
