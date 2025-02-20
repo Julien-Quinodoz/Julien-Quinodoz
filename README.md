@@ -27,13 +27,17 @@ Actuellement étudiant en programmation informatique à l'[École 42 Lausanne](h
 - 🧩 Développement de l'algorithme "push\_swap" dans le cadre de l'École 42
 - 🛠️ Projets personnels en développement web
 
+    <img src="https://github-profile-trophy.vercel.app/?username=Nesplee&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=B,C"/>
+</div>
+
+<div align="center">
+
 ## 🎓 Parcours académique
 
 - 🖥️ École 42 Lausanne (2024-2027) - Programmation informatique
 - 📊 HES Ritzy TechnoPôle Sierre (2014-2015) - Gestionnaire e-marketing et réseaux sociaux
 - 🏗️ Centre de Formation Professionnelle Sion (1996-2000) - CFC de mécatronicien automobile
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nesplee&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=github_dark&hide=stars"/>
 
 
 ## 📫 Me contacter
