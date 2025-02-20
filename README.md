@@ -34,7 +34,7 @@ Actuellement étudiant en programmation informatique à l'[École 42 Lausanne](h
 ## 📫 Me contacter
  
 - 📍 Basé à Sion, Suisse
-- [LinkedIn](https://www.linkedin.com/in/ton-lien)  
+- [LinkedIn](https://https://www.linkedin.com/in/julien-quinodoz/)  
 - [Email](mailto:jquinodo@student.42lausanne.ch)
 - ✉️ Disponible pour des collaborations et projets innovants
 
