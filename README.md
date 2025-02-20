@@ -1,10 +1,11 @@
 # 👋 Salut, moi c'est Julien 
 
-Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gestion d'entreprises dans les secteurs de la restauration et des services. Actuellement étudiant en programmation informatique à l'[École 42 Lausanne](https://42lausanne.ch/) pour élargir mes compétences dans les technologies émergentes.
+Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gestion d'entreprises dans les secteurs de la restauration et des services.
+Actuellement étudiant en programmation informatique à l'[École 42 Lausanne](https://42lausanne.ch/) pour élargir mes compétences dans les technologies émergentes.
 
 ## 🚀 À propos
 
-- 💼 Fondateur et dirigeant de plusieurs entreprises à succès : Fresh Services Sàrl, Fresh Sandwich, HEJ Grain de Sel Sàrl & DJE Penalty sàrl.
+- 💼 Fondateur et dirigeant de plusieurs entreprises à succès : Fresh Services Sàrl, HEJ Grain de Sel Sàrl & DJE Penalty sàrl.
 - 🎓 Étudiant à l'École 42 Lausanne (2024-2027) - Programmation, développement web, conception de logiciels, et résolution de problèmes.
 - 🌱 Toujours passionné par l'innovation et l'amélioration continue, ouvert aux opportunités dans la tech et le digital.
 
@@ -18,10 +19,9 @@ Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gest
 
 ## 🧩 Projets récents et en cours
 
-- 🎭 Organisation du [Carnaval 2025](#)
 - 🌿 Sponsoring du [Festival Nomad Land 2025](#)
 - 🧩 Développement de l'algorithme "push\_swap" dans le cadre de l'École 42
-- 🛠️ Projets personnels en développement web et automatisation
+- 🛠️ Projets personnels en développement web
 
 ## 🎓 Parcours académique
 
