@@ -1,5 +1,6 @@
-<div align="center">
+
 # 👋 Salut, moi c'est Julien 
+<div align="center">
 
 Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gestion d'entreprises dans les secteurs de la restauration et des services.
 Actuellement étudiant en programmation informatique à l'[École 42 Lausanne](https://42lausanne.ch/) pour élargir mes compétences dans les technologies émergentes.
@@ -20,13 +21,13 @@ Actuellement étudiant en programmation informatique à l'[École 42 Lausanne](h
 - **Marketing digital** : Stratégie, fidélisation, gestion des réseaux sociaux
 - **Amélioration continue** : Optimisation et innovation dans les processus métiers
 
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Julien-Quinodoz&theme=react-dark&hide_border=true"/>
-
 ## 🧩 Projets récents et en cours
 
-- 🌿 Sponsoring du [Festival Nomad Land 2025](#)
-- 🧩 Développement de l'algorithme "push\_swap" dans le cadre de l'École 42
+- 🌿 Cursus Ecole 42
+- 🧩 Développement de compétances dans le cadre de l'École 42
 - 🛠️ Projets personnels en développement web
+
+   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Julien-Quinodoz&theme=react-dark&hide_border=true"/>
 
     <img src="https://github-profile-trophy.vercel.app/?username=Nesplee&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=B,C"/>
 </div>
