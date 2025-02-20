@@ -3,6 +3,8 @@
 Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gestion d'entreprises dans les secteurs de la restauration et des services.
 Actuellement étudiant en programmation informatique à l'[École 42 Lausanne](https://42lausanne.ch/) pour élargir mes compétences dans les technologies émergentes.
 
+https://badge.mediaplus.ma/binary/jquinodo?1337Badge=off&42Network=off&UM6P=off
+
 ## 🚀 À propos
 
 - 💼 Fondateur et dirigeant de plusieurs entreprises à succès : Fresh Services Sàrl, HEJ Grain de Sel Sàrl & DJE Penalty sàrl.
