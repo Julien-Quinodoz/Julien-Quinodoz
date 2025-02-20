@@ -3,7 +3,7 @@
 Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gestion d'entreprises dans les secteurs de la restauration et des services.
 Actuellement étudiant en programmation informatique à l'[École 42 Lausanne](https://42lausanne.ch/) pour élargir mes compétences dans les technologies émergentes.
 
-![Badge Animation](https://badge.mediaplus.ma/binary/jquinodo?1337Badge=off&42Network=off&UM6P=off)
+[![jquinodo's 42 stats](https://badge.mediaplus.ma/greenbinary/jquinodo?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🚀 À propos
 
