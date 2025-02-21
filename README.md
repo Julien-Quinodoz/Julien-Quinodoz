@@ -71,3 +71,18 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 ✨ "Toujours prêt à relever de nouveaux défis et à explorer de nouvelles synergies."
 
+----
+
+## Derniers Followers GitHub
+
+1. [Utilisateur1](https://github.com/Utilisateur1)
+2. [Utilisateur2](https://github.com/Utilisateur2)
+3. [Utilisateur3](https://github.com/Utilisateur3)
+4. [Utilisateur4](https://github.com/Utilisateur4)
+5. [Utilisateur5](https://github.com/Utilisateur5)
+6. [Utilisateur6](https://github.com/Utilisateur6)
+7. [Utilisateur7](https://github.com/Utilisateur7)
+8. [Utilisateur8](https://github.com/Utilisateur8)
+9. [Utilisateur9](https://github.com/Utilisateur9)
+10. [Utilisateur10](https://github.com/Utilisateur10)
+
