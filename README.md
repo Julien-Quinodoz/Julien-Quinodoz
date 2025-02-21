@@ -73,18 +73,5 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 <table>
   <tr><th>Avatar</th><th>Nom d'utilisateur</th><th>Profil</th></tr>
-  <tr><td><img src='https://github.com/Abacaxi10.png' width='50' height='50'></td><td><strong>Abacaxi10</strong></td><td><a href='https://github.com/Abacaxi10'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/IsaiahRobinsonGit.png' width='50' height='50'></td><td><strong>IsaiahRobinsonGit</strong></td><td><a href='https://github.com/IsaiahRobinsonGit'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/Marjo412.png' width='50' height='50'></td><td><strong>Marjo412</strong></td><td><a href='https://github.com/Marjo412'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/daniel149afonso.png' width='50' height='50'></td><td><strong>daniel149afonso</strong></td><td><a href='https://github.com/daniel149afonso'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/SaperlipopetteMaSalopette.png' width='50' height='50'></td><td><strong>SaperlipopetteMaSalopette</strong></td><td><a href='https://github.com/SaperlipopetteMaSalopette'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/CODMAT23.png' width='50' height='50'></td><td><strong>CODMAT23</strong></td><td><a href='https://github.com/CODMAT23'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/Nesplee.png' width='50' height='50'></td><td><strong>Nesplee</strong></td><td><a href='https://github.com/Nesplee'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/Rodrigotari1.png' width='50' height='50'></td><td><strong>Rodrigotari1</strong></td><td><a href='https://github.com/Rodrigotari1'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/AwTaS.png' width='50' height='50'></td><td><strong>AwTaS</strong></td><td><a href='https://github.com/AwTaS'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/K1rsN7.png' width='50' height='50'></td><td><strong>K1rsN7</strong></td><td><a href='https://github.com/K1rsN7'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/DIMFLIX-OFFICIAL.png' width='50' height='50'></td><td><strong>DIMFLIX-OFFICIAL</strong></td><td><a href='https://github.com/DIMFLIX-OFFICIAL'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/pasqualerossi.png' width='50' height='50'></td><td><strong>pasqualerossi</strong></td><td><a href='https://github.com/pasqualerossi'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/0yech.png' width='50' height='50'></td><td><strong>0yech</strong></td><td><a href='https://github.com/0yech'>Profil</a></td></tr>
-<tr><td><img src='https://github.com/jelspace.png' width='50' height='50'></td><td><strong>jelspace</strong></td><td><a href='https://github.com/jelspace'>Profil</a></td></tr>
+  
 </table>

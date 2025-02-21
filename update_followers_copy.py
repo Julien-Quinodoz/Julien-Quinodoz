@@ -7,7 +7,7 @@ def update_followers():
     avec leurs noms et avatars alignés.
     """
     username = "Julien-Quinodoz"
-    url = f"https://api.github.com/users/{username}/followers?per_page=100"
+    url = f"https://api.github.com/users/{username}/followers?per_page=20"
 
     response = requests.get(url)
 
@@ -16,17 +16,7 @@ def update_followers():
         print("Détails:", response.json())
         return
 
-    followers = response.json()
-
-    # Filtrer les followers qui n'ont pas la clé 'created_at'
-    followers = [follower for follower in followers if 'created_at' in follower]
-
-    # Tri des followers par date de création, du plus récent au plus ancien
-    followers = sorted(followers, key=lambda x: x['created_at'], reverse=True)
-
-    # Récupérer les 10 derniers followers
-    followers = followers[:10]
-
+    followers = response.json()[::-1]  # Inverser pour afficher les derniers en premier
     followers_list = "\n".join([
         f"<tr><td><img src='https://github.com/{follower['login']}.png' width='50' height='50'></td>"
         f"<td><strong>{follower['login']}</strong></td><td><a href='{follower['html_url']}'>Profil</a></td></tr>"
