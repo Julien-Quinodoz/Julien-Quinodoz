@@ -2,8 +2,8 @@ name: Update Followers
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Exécute le workflow tous les jours à minuit UTC
-  workflow_dispatch:  # Permet d'exécuter le workflow manuellement depuis l'interface GitHub
+    - cron: '0 0 * * *'  # Exécute tous les jours à minuit UTC
+  workflow_dispatch:    # Permet l'exécution manuelle
 
 jobs:
   update-followers:
@@ -25,9 +25,8 @@ jobs:
         run: python update_followers.py
 
       - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: EndBug/add-and-commit@v9
         with:
-          commit_message: "🔄 Mise à jour quotidienne des derniers followers"
-          branch: main
-          commit_user_name: "GitHub Actions"
-          commit_user_email: "actions@github.com"
+          author_name: "GitHub Actions"
+          author_email: "actions@github.com"
+          message: "Update README with latest followers"
