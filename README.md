@@ -11,10 +11,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/julien-quinodoz/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jquinodo@student.42lausanne.ch)
 
-   
+
 Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gestion d'entreprises dans les secteurs de la restauration et des services.
 Je suis actuellement étudiant en programmation informatique à l'[École 42 Lausanne](https://42lausanne.ch/) pour élargir mes compétences dans les technologies émergentes.
-   
+
 [![jquinodo's 42 stats](https://badge.mediaplus.ma/binary/jquinodo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🚀 À propos
@@ -55,7 +55,7 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 
 ## 📫 Me contacter
- 
+
 - 📍 Basé à Sion, Suisse
 
      [![Discord](https://img.shields.io/badge/-Discord-000?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/VGF4pVYh)
@@ -75,14 +75,14 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 ## Derniers Followers GitHub
 
-1. [Utilisateur1](https://github.com/Utilisateur1)
-2. [Utilisateur2](https://github.com/Utilisateur2)
-3. [Utilisateur3](https://github.com/Utilisateur3)
-4. [Utilisateur4](https://github.com/Utilisateur4)
-5. [Utilisateur5](https://github.com/Utilisateur5)
-6. [Utilisateur6](https://github.com/Utilisateur6)
-7. [Utilisateur7](https://github.com/Utilisateur7)
-8. [Utilisateur8](https://github.com/Utilisateur8)
-9. [Utilisateur9](https://github.com/Utilisateur9)
-10. [Utilisateur10](https://github.com/Utilisateur10)
+1. [daniel149afonso](https://github.com/daniel149afonso)
+2. [SaperlipopetteMaSalopette](https://github.com/SaperlipopetteMaSalopette)
+3. [CODMAT23](https://github.com/CODMAT23)
+4. [Nesplee](https://github.com/Nesplee)
+5. [Rodrigotari1](https://github.com/Rodrigotari1)
+6. [K1rsN7](https://github.com/K1rsN7)
+7. [DIMFLIX-OFFICIAL](https://github.com/DIMFLIX-OFFICIAL)
+8. [pasqualerossi](https://github.com/pasqualerossi)
+9. [0yech](https://github.com/0yech)
+10. [jelspace](https://github.com/jelspace)
 
