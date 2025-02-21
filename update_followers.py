@@ -7,7 +7,7 @@ def update_followers():
     avec leurs noms et avatars alignés.
     """
     username = "Julien-Quinodoz"
-    url = f"https://api.github.com/users/{username}/followers?per_page=10"
+    url = f"https://api.github.com/users/{username}/followers?per_page=20"
 
     response = requests.get(url)
 
