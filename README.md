@@ -1,11 +1,21 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Julien-Quinodoz.Julien-Quinodoz">
 
-# 👋 Salut, moi c'est Julien 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut,+tout+le+monde+👋+!;Je+suis+Julien+....;Nice+to+meet+you!&center=true&size=27">
+  </a>
+</h1>
 <div align="center">
 
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/VGF4pVYh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/julien-quinodoz/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jquinodo@student.42lausanne.ch)
+
+   
 Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gestion d'entreprises dans les secteurs de la restauration et des services.
 Je suis actuellement étudiant en programmation informatique à l'[École 42 Lausanne](https://42lausanne.ch/) pour élargir mes compétences dans les technologies émergentes.
-
-[![jquinodo's 42 stats](https://badge.mediaplus.ma/greenbinary/jquinodo?1337Badge=off&42Network=off&UM6P=off)](https://github.com/oakoudad/badge42)
+   
+[![jquinodo's 42 stats](https://badge.mediaplus.ma/binary/jquinodo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ## 🚀 À propos
 
@@ -51,9 +61,10 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 ## 📫 Me contacter
  
 - 📍 Basé à Sion, Suisse
-- [LinkedIn](https://www.linkedin.com/in/julien-quinodoz/)  
-- [Email](mailto:jquinodo@student.42lausanne.ch)
-- 👉 [Rejoins-moi sur Discord](https://discord.gg/VGF4pVYh) !
+
+     [![Discord](https://img.shields.io/badge/-Discord-000?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/VGF4pVYh)
+ [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/julien-quinodoz/)
+ [![Email](https://img.shields.io/badge/-Email-000?logo=gmail&logoColor=white&style=flat-square)](mailto:jquinodo@student.42lausanne.ch)
 - ✉️ Disponible pour des collaborations et projets innovants
 
 ---
