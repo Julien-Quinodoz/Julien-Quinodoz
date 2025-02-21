@@ -73,8 +73,19 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 
 
+
 ## Derniers Followers GitHub
 
+1. [daniel149afonso](https://github.com/daniel149afonso)
+2. [SaperlipopetteMaSalopette](https://github.com/SaperlipopetteMaSalopette)
+3. [CODMAT23](https://github.com/CODMAT23)
+4. [Nesplee](https://github.com/Nesplee)
+5. [Rodrigotari1](https://github.com/Rodrigotari1)
+6. [K1rsN7](https://github.com/K1rsN7)
+7. [DIMFLIX-OFFICIAL](https://github.com/DIMFLIX-OFFICIAL)
+8. [pasqualerossi](https://github.com/pasqualerossi)
+9. [0yech](https://github.com/0yech)
+10. [jelspace](https://github.com/jelspace)
 1. [daniel149afonso](https://github.com/daniel149afonso)
 2. [SaperlipopetteMaSalopette](https://github.com/SaperlipopetteMaSalopette)
 3. [CODMAT23](https://github.com/CODMAT23)
