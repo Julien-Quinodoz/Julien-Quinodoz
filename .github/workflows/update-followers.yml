@@ -2,33 +2,32 @@ name: Update Followers
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Exécute tous les jours à minuit UTC
-  workflow_dispatch:  # Permet d'exécuter manuellement le workflow
+    - cron: '0 0 * * *'  # Exécute le workflow tous les jours à minuit UTC
+  workflow_dispatch:  # Permet d'exécuter le workflow manuellement depuis l'interface GitHub
 
 jobs:
   update-followers:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout the repository
-      uses: actions/checkout@v2
+      - name: Checkout the repository
+        uses: actions/checkout@v3
 
-    - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: '3.x'
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
 
-    - name: Install dependencies
-      run: |
-        pip install requests
+      - name: Install dependencies
+        run: pip install requests
 
-    - name: Run script to update followers
-      run: |
-        python update_followers.py
+      - name: Run script to update followers
+        run: python update_followers.py
 
-    - name: Commit and push changes
-      uses: EndBug/add-and-commit@v7
-      with:
-        author_name: "GitHub Actions"
-        author_email: "actions@github.com"
-        message: "Update README with latest followers"
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "🔄 Mise à jour quotidienne des derniers followers"
+          branch: main
+          commit_user_name: "GitHub Actions"
+          commit_user_email: "actions@github.com"

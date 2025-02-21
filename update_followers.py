@@ -1,31 +1,51 @@
 import requests
+import os
 
-# Remplacer par ton nom d'utilisateur GitHub
-username = "Julien-Quinodoz"
-url = f"https://api.github.com/users/{username}/followers?per_page=10"
+def update_followers():
+    """
+    Récupère les 10 derniers followers GitHub et met à jour la section correspondante du README.md.
+    """
+    username = "Julien-Quinodoz"
+    url = f"https://api.github.com/users/{username}/followers?per_page=10"
 
-# Faire une requête pour obtenir les followers
-response = requests.get(url)
+    response = requests.get(url)
 
-# Vérifier si la réponse est correcte
-if response.status_code != 200:
-    print(f"Erreur lors de la récupération des followers. Code de statut: {response.status_code}")
-    print("Détails:", response.json())  # Affiche les détails de l'erreur de l'API
-else:
-    followers = response.json()
+    if response.status_code != 200:
+        print(f"❌ Erreur lors de la récupération des followers. Code de statut: {response.status_code}")
+        print("Détails:", response.json())
+        return
 
-    # Inverser l'ordre des followers (pour afficher les derniers suivis en premier)
-    followers.reverse()
+    followers = response.json()[::-1]  # Inverser pour afficher les derniers en premier
+    followers_list = "\n".join([
+        f"{i+1}. [{follower['login']}]({follower['html_url']})"
+        for i, follower in enumerate(followers)
+    ])
 
-    # Générer la liste des derniers followers avec leurs noms et liens GitHub
-    followers_list = "\n".join([f"{i+1}. [{follower['login']}]({follower['html_url']})" for i, follower in enumerate(followers)])
-
-    # Préparer le contenu Markdown pour le README
-    readme_content = f"""
+    new_section = f"""
 ## Derniers Followers GitHub
 
 {followers_list}
 """
 
-    # Afficher le contenu pour vérifier
-    print(readme_content)
+    readme_path = "README.md"
+
+    if not os.path.exists(readme_path):
+        print("❌ README.md introuvable.")
+        return
+
+    with open(readme_path, "r+") as file:
+        content = file.read()
+
+        if "## Derniers Followers GitHub" in content:
+            updated_content = content.split("## Derniers Followers GitHub")[0].rstrip() + "\n" + new_section
+        else:
+            updated_content = content.strip() + "\n" + new_section
+
+        file.seek(0)
+        file.write(updated_content)
+        file.truncate()
+
+    print("✅ README.md mis à jour avec les derniers followers.")
+
+if __name__ == "__main__":
+    update_followers()
