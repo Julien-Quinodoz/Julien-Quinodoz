@@ -71,13 +71,16 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 ## Derniers Followers GitHub
 
-1. <img src='https://github.com/daniel149afonso.png' width='30' height='30'> [daniel149afonso](https://github.com/daniel149afonso)
-2. <img src='https://github.com/SaperlipopetteMaSalopette.png' width='30' height='30'> [SaperlipopetteMaSalopette](https://github.com/SaperlipopetteMaSalopette)
-3. <img src='https://github.com/CODMAT23.png' width='30' height='30'> [CODMAT23](https://github.com/CODMAT23)
-4. <img src='https://github.com/Nesplee.png' width='30' height='30'> [Nesplee](https://github.com/Nesplee)
-5. <img src='https://github.com/Rodrigotari1.png' width='30' height='30'> [Rodrigotari1](https://github.com/Rodrigotari1)
-6. <img src='https://github.com/K1rsN7.png' width='30' height='30'> [K1rsN7](https://github.com/K1rsN7)
-7. <img src='https://github.com/DIMFLIX-OFFICIAL.png' width='30' height='30'> [DIMFLIX-OFFICIAL](https://github.com/DIMFLIX-OFFICIAL)
-8. <img src='https://github.com/pasqualerossi.png' width='30' height='30'> [pasqualerossi](https://github.com/pasqualerossi)
-9. <img src='https://github.com/0yech.png' width='30' height='30'> [0yech](https://github.com/0yech)
-10. <img src='https://github.com/jelspace.png' width='30' height='30'> [jelspace](https://github.com/jelspace)
+<table>
+  <tr><th>Avatar</th><th>Nom d'utilisateur</th><th>Profil</th></tr>
+  <tr><td><img src='https://github.com/daniel149afonso.png' width='50' height='50'></td><td><strong>daniel149afonso</strong></td><td><a href='https://github.com/daniel149afonso'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/SaperlipopetteMaSalopette.png' width='50' height='50'></td><td><strong>SaperlipopetteMaSalopette</strong></td><td><a href='https://github.com/SaperlipopetteMaSalopette'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/CODMAT23.png' width='50' height='50'></td><td><strong>CODMAT23</strong></td><td><a href='https://github.com/CODMAT23'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/Nesplee.png' width='50' height='50'></td><td><strong>Nesplee</strong></td><td><a href='https://github.com/Nesplee'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/Rodrigotari1.png' width='50' height='50'></td><td><strong>Rodrigotari1</strong></td><td><a href='https://github.com/Rodrigotari1'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/K1rsN7.png' width='50' height='50'></td><td><strong>K1rsN7</strong></td><td><a href='https://github.com/K1rsN7'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/DIMFLIX-OFFICIAL.png' width='50' height='50'></td><td><strong>DIMFLIX-OFFICIAL</strong></td><td><a href='https://github.com/DIMFLIX-OFFICIAL'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/pasqualerossi.png' width='50' height='50'></td><td><strong>pasqualerossi</strong></td><td><a href='https://github.com/pasqualerossi'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/0yech.png' width='50' height='50'></td><td><strong>0yech</strong></td><td><a href='https://github.com/0yech'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/jelspace.png' width='50' height='50'></td><td><strong>jelspace</strong></td><td><a href='https://github.com/jelspace'>Profil</a></td></tr>
+</table>
