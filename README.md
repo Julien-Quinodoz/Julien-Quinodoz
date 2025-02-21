@@ -65,5 +65,9 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 ---
 
+<p align="center">
+<a href="https://github.com/Julien-Quinodoz"><img src="https://img.shields.io/github/followers/Julien-Quinodoz?style=social"></a>
+</p>
+
 ✨ "Toujours prêt à relever de nouveaux défis et à explorer de nouvelles synergies."
 
