@@ -6,12 +6,12 @@
 #    By: jquinodo <jquinodo@student.42lausanne.c    +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2025/02/21 14:21:56 by jquinodo          #+#    #+#              #
-#    Updated: 2025/02/21 16:26:01 by jquinodo         ###   ########.fr        #
+#    Updated: 2025/02/21 16:27:59 by jquinodo         ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
 python update_followers.py
 
 
-pour sortire de venv :  deactivate
+pour sortire de l'environement venv :  deactivate
 
