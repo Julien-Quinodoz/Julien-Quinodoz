@@ -1,4 +1,3 @@
-
 import requests
 import os
 
@@ -19,7 +18,7 @@ def update_followers():
 
     followers = response.json()[::-1]  # Inverser pour afficher les derniers en premier
     followers_list = "\n".join([
-        f"{i+1}. ![Avatar](https://github.com/{follower['login']}.png?s=10) [{follower['login']}]({follower['html_url']})"
+        f"{i+1}. <img src='https://github.com/{follower['login']}.png' width='30' height='30'> [{follower['login']}]({follower['html_url']})"
         for i, follower in enumerate(followers)
     ])
 

@@ -71,13 +71,13 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 ## Derniers Followers GitHub
 
-1. ![Avatar](https://github.com/daniel149afonso.png?s=10) [daniel149afonso](https://github.com/daniel149afonso)
-2. ![Avatar](https://github.com/SaperlipopetteMaSalopette.png?s=10) [SaperlipopetteMaSalopette](https://github.com/SaperlipopetteMaSalopette)
-3. ![Avatar](https://github.com/CODMAT23.png?s=10) [CODMAT23](https://github.com/CODMAT23)
-4. ![Avatar](https://github.com/Nesplee.png?s=10) [Nesplee](https://github.com/Nesplee)
-5. ![Avatar](https://github.com/Rodrigotari1.png?s=10) [Rodrigotari1](https://github.com/Rodrigotari1)
-6. ![Avatar](https://github.com/K1rsN7.png?s=10) [K1rsN7](https://github.com/K1rsN7)
-7. ![Avatar](https://github.com/DIMFLIX-OFFICIAL.png?s=10) [DIMFLIX-OFFICIAL](https://github.com/DIMFLIX-OFFICIAL)
-8. ![Avatar](https://github.com/pasqualerossi.png?s=10) [pasqualerossi](https://github.com/pasqualerossi)
-9. ![Avatar](https://github.com/0yech.png?s=10) [0yech](https://github.com/0yech)
-10. ![Avatar](https://github.com/jelspace.png?s=10) [jelspace](https://github.com/jelspace)
+1. <img src='https://github.com/daniel149afonso.png' width='30' height='30'> [daniel149afonso](https://github.com/daniel149afonso)
+2. <img src='https://github.com/SaperlipopetteMaSalopette.png' width='30' height='30'> [SaperlipopetteMaSalopette](https://github.com/SaperlipopetteMaSalopette)
+3. <img src='https://github.com/CODMAT23.png' width='30' height='30'> [CODMAT23](https://github.com/CODMAT23)
+4. <img src='https://github.com/Nesplee.png' width='30' height='30'> [Nesplee](https://github.com/Nesplee)
+5. <img src='https://github.com/Rodrigotari1.png' width='30' height='30'> [Rodrigotari1](https://github.com/Rodrigotari1)
+6. <img src='https://github.com/K1rsN7.png' width='30' height='30'> [K1rsN7](https://github.com/K1rsN7)
+7. <img src='https://github.com/DIMFLIX-OFFICIAL.png' width='30' height='30'> [DIMFLIX-OFFICIAL](https://github.com/DIMFLIX-OFFICIAL)
+8. <img src='https://github.com/pasqualerossi.png' width='30' height='30'> [pasqualerossi](https://github.com/pasqualerossi)
+9. <img src='https://github.com/0yech.png' width='30' height='30'> [0yech](https://github.com/0yech)
+10. <img src='https://github.com/jelspace.png' width='30' height='30'> [jelspace](https://github.com/jelspace)
