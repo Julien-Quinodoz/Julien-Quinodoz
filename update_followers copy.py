@@ -3,8 +3,7 @@ import os
 
 def update_followers():
     """
-    Récupère les 10 derniers followers GitHub et met à jour la section correspondante du README.md
-    avec leurs noms et avatars.
+    Récupère les 10 derniers followers GitHub et met à jour la section correspondante du README.md.
     """
     username = "Julien-Quinodoz"
     url = f"https://api.github.com/users/{username}/followers?per_page=10"
@@ -18,7 +17,7 @@ def update_followers():
 
     followers = response.json()[::-1]  # Inverser pour afficher les derniers en premier
     followers_list = "\n".join([
-        f"{i+1}. ![Avatar](https://github.com/{follower['login']}.png) [{follower['login']}]({follower['html_url']})"
+        f"{i+1}. [{follower['login']}]({follower['html_url']})"
         for i, follower in enumerate(followers)
     ])
 
