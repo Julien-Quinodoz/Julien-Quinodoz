@@ -20,20 +20,21 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 ## 🚀 À propos
 
 - 💼 Fondateur et dirigeant de plusieurs entreprises à succès : Fresh Services Sàrl, HEJ Grain de Sel Sàrl & DJE Penalty sàrl.
-- 🎓 Étudiant à l'École 42 Lausanne (2024-2027) - Programmation, développement web, conception de logiciels, et résolution de problèmes.
+- 🎓 Étudiant à l'École 42 Lausanne (2024-2027) - apprentissage du langage C & C++, résolution de problèmes.
 - 🌱 Toujours passionné par l'innovation et l'amélioration continue, ouvert aux opportunités dans la tech et le digital.
 
 ## 🛠️ Compétences
 
 - **Entrepreneuriat** : Création et gestion d'entreprises performantes
 - **Management** : Leadership d'équipe, optimisation des processus opérationnels
-- **Informatique** : Programmation en C, développement web, gestion de bases de données (SGBD)
 - **Marketing digital** : Stratégie, fidélisation, gestion des réseaux sociaux
 - **Amélioration continue** : Optimisation et innovation dans les processus métiers
-- DJ & Producteur de Musique Électronique :
+- **DJ et producteur** : Passionné de musique Électronique :
 
 [![Écoute sur Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/intl-fr/artist/3LOgBPOUZe1PuvLr7U7cDB?si=gL3orSrJTVmXaoYVcuIM-w)
 
+[![Aperçu Spotify](https://link-to-your-screenshot.png)](https://open.spotify.com/intl-fr/artist/3LOgBPOUZe1PuvLr7U7cDB?si=gL3orSrJTVmXaoYVcuIM-w)  
+[![Écoute sur Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/intl-fr/artist/3LOgBPOUZe1PuvLr7U7cDB?si=gL3orSrJTVmXaoYVcuIM-w)
 
 
 
