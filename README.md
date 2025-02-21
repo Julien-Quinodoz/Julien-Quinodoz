@@ -69,10 +69,6 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 <a href="https://github.com/Julien-Quinodoz"><img src="https://img.shields.io/github/followers/Julien-Quinodoz?style=social"></a>
 </p>
 
-✨ "Toujours prêt à relever de nouveaux défis et à explorer de nouvelles synergies."
-
-----
-
 ## Derniers Followers GitHub
 
 1. [daniel149afonso](https://github.com/daniel149afonso)
@@ -85,4 +81,8 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 8. [pasqualerossi](https://github.com/pasqualerossi)
 9. [0yech](https://github.com/0yech)
 10. [jelspace](https://github.com/jelspace)
+
+---
+
+✨ "Toujours prêt à relever de nouveaux défis et à explorer de nouvelles synergies."
 
