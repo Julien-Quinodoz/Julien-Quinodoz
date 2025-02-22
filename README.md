@@ -74,6 +74,7 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 <table>
   <tr><th>Avatar</th><th>Nom d'utilisateur</th><th>Profil</th></tr>
   <tr><td><img src='https://github.com/Abacaxi10.png' width='50' height='50'></td><td><strong>Abacaxi10</strong></td><td><a href='https://github.com/Abacaxi10'>Profil</a></td></tr>
+<tr><td><img src='https://github.com/Bullestico42.png' width='50' height='50'></td><td><strong>Bullestico42</strong></td><td><a href='https://github.com/Bullestico42'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/IsaiahRobinsonGit.png' width='50' height='50'></td><td><strong>IsaiahRobinsonGit</strong></td><td><a href='https://github.com/IsaiahRobinsonGit'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/Marjo412.png' width='50' height='50'></td><td><strong>Marjo412</strong></td><td><a href='https://github.com/Marjo412'>Profil</a></td></tr>
 <tr><td><img src='https://github.com/daniel149afonso.png' width='50' height='50'></td><td><strong>daniel149afonso</strong></td><td><a href='https://github.com/daniel149afonso'>Profil</a></td></tr>
