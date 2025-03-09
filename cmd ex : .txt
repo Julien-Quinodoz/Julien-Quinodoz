@@ -15,3 +15,5 @@ python update_followers.py
 
 pour sortire de l'environement venv :  deactivate
 
+
+:)
