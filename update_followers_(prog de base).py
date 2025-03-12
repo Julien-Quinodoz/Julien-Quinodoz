@@ -24,7 +24,7 @@ def update_followers():
     ])
 
     new_section = f"""
-## Derniers Followers GitHub
+## Derniers Followers GitHub (Màj à 23h42)
 
 <table>
   <tr><th>Avatar</th><th>Nom d'utilisateur</th><th>Profil</th></tr>

@@ -53,7 +53,7 @@ def update_followers():
         followers_list += row
 
     new_section = f"""
-## Derniers Followers GitHub
+## Derniers Followers GitHub (Màj à 23h42)
 
 <table>
   {followers_list}
