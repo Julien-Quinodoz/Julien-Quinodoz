@@ -1,10 +1,11 @@
 import requests
 import os
+import random
 
 def update_followers():
     """
-    Récupère les 36 derniers followers GitHub et met à jour la section correspondante du README.md
-    en affichant leurs noms et avatars sur six colonnes.
+    Récupère les 36 derniers followers GitHub, mélange les cases et affiche un message interactif
+    pour encourager les visiteurs à suivre le compte.
     """
     username = "Julien-Quinodoz"
     url = f"https://api.github.com/users/{username}/followers?per_page=36"
@@ -18,30 +19,36 @@ def update_followers():
 
     followers = response.json()[::-1]  # Inverser pour afficher les derniers en premier
 
+    # Compléter avec des cases "Your head here!" si moins de 36 followers
+    total_cases = 36
+    empty_cases_needed = total_cases - len(followers)
+
+    empty_case_html = (
+        "<td align='center' style='opacity:0.7;'>"
+        "<a href='https://github.com/Julien-Quinodoz?tab=followers' target='_blank'>"
+        "<img src='https://via.placeholder.com/50' width='50' height='50'><br>"
+        "<strong>Your head here!</strong></a></td>"
+    )
+
+    cases = [
+        (
+            f"<td align='center'>"
+            f"<img src='https://github.com/{follower['login']}.png' width='50' height='50'><br>"
+            f"<strong>{follower['login']}</strong><br>"
+            f"<a href='{follower['html_url']}'>Profil</a>"
+            f"</td>"
+        )
+        for follower in followers
+    ] + [empty_case_html] * empty_cases_needed  # Ajouter les cases vides
+
+    # Mélanger toutes les cases
+    random.shuffle(cases)
+
     # Générer le tableau avec 6 colonnes
     followers_list = ""
     columns = 6
-    for i in range(0, len(followers), columns):
-        row = "<tr>"
-        for j in range(columns):
-            if i + j < len(followers):
-                follower = followers[i + j]
-                row += (
-                    f"<td align='center'>"
-                    f"<img src='https://github.com/{follower['login']}.png' width='50' height='50'><br>"
-                    f"<strong>{follower['login']}</strong><br>"
-                    f"<a href='{follower['html_url']}'>Profil</a>"
-                    f"</td>"
-                )
-            else:
-                # Case vide avec le message centré
-                row += (
-                    "<td align='center' style='opacity:0.5;'>"
-                    "<img src='https://via.placeholder.com/50' width='50' height='50'><br>"
-                    "<strong>Your head here!</strong><br>"
-                    "</td>"
-                )
-        row += "</tr>\n"
+    for i in range(0, total_cases, columns):
+        row = "<tr>" + "".join(cases[i : i + columns]) + "</tr>\n"
         followers_list += row
 
     new_section = f"""
