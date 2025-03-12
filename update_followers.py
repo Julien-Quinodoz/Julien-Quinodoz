@@ -26,7 +26,7 @@ def update_followers():
     empty_case_html = (
         "<td align='center' style='opacity:0.7;'>"
         "<a href='https://github.com/Julien-Quinodoz?tab=followers' target='_blank'>"
-        "<img src='https://drive.google.com/uc?id=1J76CRdZMGEJ3GOEHoG6JP0IzDuEujWEW' width='50' height='50'><br>"
+        "<img src='https://drive.google.com/file/d/1241Ang5fqHX4BZX-QjgH1eT1N4USP_yr/view?usp=sharing' width='50' height='50'><br>"
         "<strong>Your head here!</strong></a></td>"
     )
 
