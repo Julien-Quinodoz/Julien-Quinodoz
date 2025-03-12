@@ -3,11 +3,11 @@ import os
 
 def update_followers():
     """
-    Récupère les 10 derniers followers GitHub et met à jour la section correspondante du README.md
-    en affichant leurs noms et avatars sur deux colonnes.
+    Récupère les 36 derniers followers GitHub et met à jour la section correspondante du README.md
+    en affichant leurs noms et avatars sur six colonnes.
     """
     username = "Julien-Quinodoz"
-    url = f"https://api.github.com/users/{username}/followers?per_page=10"
+    url = f"https://api.github.com/users/{username}/followers?per_page=36"
 
     response = requests.get(url)
 
@@ -18,22 +18,31 @@ def update_followers():
 
     followers = response.json()[::-1]  # Inverser pour afficher les derniers en premier
 
-    # Générer le tableau avec 2 colonnes
+    # Générer le tableau avec 6 colonnes
     followers_list = ""
-    for i in range(0, len(followers), 2):
+    columns = 6
+    for i in range(0, len(followers), columns):
         row = "<tr>"
-        for j in range(2):
+        for j in range(columns):
             if i + j < len(followers):
                 follower = followers[i + j]
                 row += (
-                    f"<td><img src='https://github.com/{follower['login']}.png' width='50' height='50'><br>"
+                    f"<td align='center'>"
+                    f"<img src='https://github.com/{follower['login']}.png' width='50' height='50'><br>"
                     f"<strong>{follower['login']}</strong><br>"
-                    f"<a href='{follower['html_url']}'>Profil</a></td>"
+                    f"<a href='{follower['html_url']}'>Profil</a>"
+                    f"</td>"
                 )
             else:
-                row += "<td></td>"  # Case vide si le nombre de followers est impair
-        row += "</tr>"
-        followers_list += row + "\n"
+                # Case vide avec le message centré
+                row += (
+                    "<td align='center' style='opacity:0.5;'>"
+                    "<img src='https://via.placeholder.com/50' width='50' height='50'><br>"
+                    "<strong>Your head here!</strong><br>"
+                    "</td>"
+                )
+        row += "</tr>\n"
+        followers_list += row
 
     new_section = f"""
 ## Derniers Followers GitHub
