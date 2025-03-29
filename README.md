@@ -81,3 +81,6 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 <tr><td align='center'><img src='https://github.com/K1rsN7.png' width='50' height='50'><br><strong>K1rsN7</strong><br><a href='https://github.com/K1rsN7'>Profil</a></td><td align='center'><img src='https://github.com/RaulBatista1912.png' width='50' height='50'><br><strong>RaulBatista1912</strong><br><a href='https://github.com/RaulBatista1912'>Profil</a></td><td align='center' style='opacity:0.7;'><a href='https://github.com/Julien-Quinodoz?tab=followers' target='_blank'><img src='https://drive.google.com/uc?id=1MabxgCT39On1bnoQ-4huFuiWVSRWUPPS' width='50' height='50'><br><strong>Your head here!</strong></a></td><td align='center' style='opacity:0.7;'><a href='https://github.com/Julien-Quinodoz?tab=followers' target='_blank'><img src='https://drive.google.com/uc?id=1MabxgCT39On1bnoQ-4huFuiWVSRWUPPS' width='50' height='50'><br><strong>Your head here!</strong></a></td><td align='center'><img src='https://github.com/jelspace.png' width='50' height='50'><br><strong>jelspace</strong><br><a href='https://github.com/jelspace'>Profil</a></td><td align='center'><img src='https://github.com/fermincasquero.png' width='50' height='50'><br><strong>fermincasquero</strong><br><a href='https://github.com/fermincasquero'>Profil</a></td></tr>
 
 </table>
+
+
+
