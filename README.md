@@ -51,7 +51,7 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 - 🖥️ École 42 Lausanne (2024-2027) - Programmation informatique
 - 📊 HES Ritzy TechnoPôle Sierre - diplôme LHR/GBB Valais
 - 📊 HES Ritzy Sierre - diplôme gestionnaire e-marketing et réseaux sociaux
-- 🏗️ Centre de Formation Professionnelle Sion (1996-2000) - CFC de mécatronicien automobile
+- 🏗️ Centre de Formation Professionnelle Sion  - CFC de mécatronicien automobile
 
 
 
