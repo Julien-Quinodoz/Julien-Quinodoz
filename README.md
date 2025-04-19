@@ -15,7 +15,7 @@
 Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gestion d'entreprises dans les secteurs de la restauration et des services.
 Je suis actuellement étudiant en programmation informatique à l'[École 42 Lausanne](https://42lausanne.ch/) pour élargir mes compétences dans les technologies émergentes.
 
-[![jquinodo's 42 stats](https://drive.google.com/file/d/16t1AyG67Qr0xYMpg9d3OooXn7Vwgs4ab/view)
+[![holy-Graoh](https://drive.google.com/file/d/16t1AyG67Qr0xYMpg9d3OooXn7Vwgs4ab/view)
 
 
 ## 🚀 À propos
