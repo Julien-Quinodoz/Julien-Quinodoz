@@ -1,9 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Julien-Quinodoz.Julien-Quinodoz">
 
-<p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1i3PYObCV-8oxvnvoMne7XrsbQt3f34qH" alt="Image 1" width="250"/>
-  <img src="https://drive.google.com/uc?export=view&id=1vKXwoM-kCeKgnhr07taYUboMJKRr__d-" alt="Image 2" width="250"/>
-</p>
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/VGF4pVYh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/julien-quinodoz/)
@@ -13,10 +8,12 @@
 Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gestion d'entreprises dans les secteurs de la restauration et des services.
 Je suis actuellement étudiant en programmation informatique à l'[École 42 Lausanne](https://42lausanne.ch/) pour élargir mes compétences dans les technologies émergentes.
 
-  <div class="container">
-    <img src="https://drive.google.com/uc?export=view&id=1i3PYObCV-8oxvnvoMne7XrsbQt3f34qH" alt="Image 1">
-    <img src="https://drive.google.com/uc?export=view&id=1vKXwoM-kCeKgnhr07taYUboMJKRr__d-" alt="Image 2">
-  </div>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Julien-Quinodoz.Julien-Quinodoz">
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1i3PYObCV-8oxvnvoMne7XrsbQt3f34qH" alt="Image 1" width="250"/>
+  <img src="https://drive.google.com/uc?export=view&id=1vKXwoM-kCeKgnhr07taYUboMJKRr__d-" alt="Image 2" width="250"/>
+</p>
 
 ## 🚀 À propos
 
