@@ -1,11 +1,9 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Julien-Quinodoz.Julien-Quinodoz">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut,+tout+le+monde+👋+!;Welcome+to+my+github+🔥!;&center=true&size=27">
-  </a>
-</h1>
-<div align="center">
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1i3PYObCV-8oxvnvoMne7XrsbQt3f34qH" alt="Image 1" width="250"/>
+  <img src="https://drive.google.com/uc?export=view&id=1vKXwoM-kCeKgnhr07taYUboMJKRr__d-" alt="Image 2" width="250"/>
+</p>
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/VGF4pVYh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/julien-quinodoz/)
