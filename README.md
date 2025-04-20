@@ -15,7 +15,7 @@
 Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gestion d'entreprises dans les secteurs de la restauration et des services.
 Je suis actuellement étudiant en programmation informatique à l'[École 42 Lausanne](https://42lausanne.ch/) pour élargir mes compétences dans les technologies émergentes.
 
-<img src="https://drive.google.com/uc?export=view&id=1i3PYObCV-8oxvnvoMne7XrsbQt3f34qH" alt="holy-Graoh" width="300"/>
+<img src="https://drive.google.com/uc?export=view&id=1i3PYObCV-8oxvnvoMne7XrsbQt3f34qH" alt="holy-Graoh" width="200"/>
 
 ## 🚀 À propos
 
