@@ -42,27 +42,30 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 [![Écoute sur Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge&size=large)](https://open.spotify.com/intl-fr/artist/3LOgBPOUZe1PuvLr7U7cDB?si=gL3orSrJTVmXaoYVcuIM-w)
 
-## 🧩 Projets Ecole 42 terminés
-
+## 🧩 Cursus Ecole 42 
+---
 </div>
 
 <div align="center">
+
+<!-- EXEMPLE AVEC LIEN : <a href="https://github.com/MJulien-Quinodoz/42_push_swap">![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/push_swape.png)</a> -->
   
-![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/libftm.png)</a>
-<a href="https://github.com/Melodycherry/42_ft_printf">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/ft_printfe.png)</a>
-<a href="https://github.com/Melodycherry/42_Born2beroot">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/born2beroote.png)</a>
-<a href="https://github.com/Melodycherry/42_get_next_line">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/get_next_linee.png)</a>
-<a href="https://github.com/Melodycherry/42_minitalk">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/minitalke.png)</a>
-<a href="https://github.com/Melodycherry/42_push_swap">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/push_swape.png)</a>
-<a href="https://github.com/Melodycherry/42_so_long">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/so_longe.png)</a>
-<a href="https://github.com/Melodycherry/42-minishell">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/minishelln.png)</a>
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/libftm.png)</a>
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/ft_printfe.png)</a>
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/born2berootm.png)</a>
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/get_next_linem.png)</a>
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/minitalkm.png)</a>
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/push_swapm.png)</a>
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/so_longm.png)</a>
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/philosopherse.png)</a>
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/minishelle.png)</a>
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/cppn.png)</a>
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/netpracticen.png)</a>
 </div>
 
-
-
+---
    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Julien-Quinodoz&theme=react-dark&hide_border=true"/>
-
-    <img src="https://github-profile-trophy.vercel.app/?username=Nesplee&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=B,C"/>
+   
 </div>
 
 <div align="center">
@@ -73,8 +76,6 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 - 📊 HES Ritzy TechnoPôle Sierre - diplôme LHR/GBB Valais
 - 📊 HES Ritzy Sierre - diplôme gestionnaire e-marketing et réseaux sociaux
 - 🏗️ Centre de Formation Professionnelle Sion  - CFC de mécatronicien automobile
-
-
 
 ## 📫 Me contacter
 
@@ -102,3 +103,6 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 <tr><td align='center' style='opacity:0.7;'><a href='https://github.com/Julien-Quinodoz?tab=followers' target='_blank'><img src='https://drive.google.com/uc?id=1MabxgCT39On1bnoQ-4huFuiWVSRWUPPS' width='50' height='50'><br><strong>Your head here!</strong></a></td><td align='center'><img src='https://github.com/AwTaS.png' width='50' height='50'><br><strong>AwTaS</strong><br><a href='https://github.com/AwTaS'>Profil</a></td><td align='center'><img src='https://github.com/CODMAT23.png' width='50' height='50'><br><strong>CODMAT23</strong><br><a href='https://github.com/CODMAT23'>Profil</a></td><td align='center'><img src='https://github.com/jelspace.png' width='50' height='50'><br><strong>jelspace</strong><br><a href='https://github.com/jelspace'>Profil</a></td><td align='center'><img src='https://github.com/LaSturn.png' width='50' height='50'><br><strong>LaSturn</strong><br><a href='https://github.com/LaSturn'>Profil</a></td><td align='center' style='opacity:0.7;'><a href='https://github.com/Julien-Quinodoz?tab=followers' target='_blank'><img src='https://drive.google.com/uc?id=1MabxgCT39On1bnoQ-4huFuiWVSRWUPPS' width='50' height='50'><br><strong>Your head here!</strong></a></td></tr>
 
 </table>
+
+---
+ <img src="https://github-profile-trophy.vercel.app/?username=Nesplee&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&rank=B,C"/>
