@@ -1,10 +1,10 @@
-<!-- Ancien compteur (en sourdine) -->
-<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Julien-Quinodoz.Julien-Quinodoz"> -->
+<!--PREMIER compteur (bug a controler) -->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Julien-Quinodoz.Julien-Quinodoz">
 
-<!-- Nouveau compteur Komarev aligné à droite -->
-<p align="right">
+<!-- Nouveau compteur Komarev aligné à droite DE RESERVE -->
+<!-- <p align="right">
   <img src="https://komarev.com/ghpvc/?username=Julien-Quinodoz&color=blue&style=flat" alt="Visitors"/>
-</p>
+</p> -->
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
