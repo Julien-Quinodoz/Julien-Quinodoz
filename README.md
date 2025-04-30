@@ -42,11 +42,23 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 [![Écoute sur Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge&size=large)](https://open.spotify.com/intl-fr/artist/3LOgBPOUZe1PuvLr7U7cDB?si=gL3orSrJTVmXaoYVcuIM-w)
 
-## 🧩 Projets récents et en cours
+## 🧩 Projets Ecole 42 terminés
 
-- 🌿 Cursus Ecole 42
-- 🧩 Développement de compétances dans le cadre de l'École 42
-- 🛠️ Projets personnels en développement web
+</div>
+
+<div align="center">
+  
+![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/libftm.png)</a>
+<a href="https://github.com/Melodycherry/42_ft_printf">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/ft_printfe.png)</a>
+<a href="https://github.com/Melodycherry/42_Born2beroot">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/born2beroote.png)</a>
+<a href="https://github.com/Melodycherry/42_get_next_line">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/get_next_linee.png)</a>
+<a href="https://github.com/Melodycherry/42_minitalk">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/minitalke.png)</a>
+<a href="https://github.com/Melodycherry/42_push_swap">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/push_swape.png)</a>
+<a href="https://github.com/Melodycherry/42_so_long">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/so_longe.png)</a>
+<a href="https://github.com/Melodycherry/42-minishell">![42 Badge](https://github.com/Melodycherry/42-project-badges/blob/main/badges/minishelln.png)</a>
+</div>
+
+
 
    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Julien-Quinodoz&theme=react-dark&hide_border=true"/>
 
