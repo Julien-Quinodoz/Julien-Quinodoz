@@ -6,10 +6,14 @@
   <img src="https://komarev.com/ghpvc/?username=Julien-Quinodoz&color=blue&style=flat" alt="Visitors"/>
 </p> -->
 
-<h1 align="center">
+<!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut,+tout+le+monde+👋+!;Welcome+to+my+github+🔥!;&center=true&size=27">
-  </a>
+  </a>  -->
+
+  <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2F81F7&size=50&center=true&vCenter=true&width=600&height=80&lines=Hey+There!+👋;Welcome+to+my+github+🔥!;" alt="Typing SVG" />
+</div>
 
 
 <p align="center">
