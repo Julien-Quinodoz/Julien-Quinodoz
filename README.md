@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="30" width="100%">
 </p>
 
 <div align="center">
@@ -112,6 +112,3 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 <tr><td align='center' style='opacity:0.7;'><a href='https://github.com/Julien-Quinodoz?tab=followers' target='_blank'><img src='https://drive.google.com/uc?id=1MabxgCT39On1bnoQ-4huFuiWVSRWUPPS' width='50' height='50'><br><strong>Your head here!</strong></a></td><td align='center'><img src='https://github.com/swuomi.png' width='50' height='50'><br><strong>swuomi</strong><br><a href='https://github.com/swuomi'>Profil</a></td><td align='center'><img src='https://github.com/lsadikaj.png' width='50' height='50'><br><strong>lsadikaj</strong><br><a href='https://github.com/lsadikaj'>Profil</a></td><td align='center' style='opacity:0.7;'><a href='https://github.com/Julien-Quinodoz?tab=followers' target='_blank'><img src='https://drive.google.com/uc?id=1MabxgCT39On1bnoQ-4huFuiWVSRWUPPS' width='50' height='50'><br><strong>Your head here!</strong></a></td><td align='center'><img src='https://github.com/SaperlipopetteMaSalopette.png' width='50' height='50'><br><strong>SaperlipopetteMaSalopette</strong><br><a href='https://github.com/SaperlipopetteMaSalopette'>Profil</a></td><td align='center'><img src='https://github.com/cloutswagsauce.png' width='50' height='50'><br><strong>cloutswagsauce</strong><br><a href='https://github.com/cloutswagsauce'>Profil</a></td></tr>
 
 </table>
-
-
-
