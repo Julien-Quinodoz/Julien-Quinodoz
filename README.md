@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="3000" width="100%">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="50" width="100%">
 </p>
 
 <div align="center">
