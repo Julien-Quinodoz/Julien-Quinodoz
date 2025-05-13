@@ -97,6 +97,13 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 ---
 
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Julien-Quinodoz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Julien-Quinodoz&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julien-Quinodoz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <p align="center">
 <a href="https://github.com/Julien-Quinodoz"><img src="https://img.shields.io/github/followers/Julien-Quinodoz?style=social"></a>
 </p>
