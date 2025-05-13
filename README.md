@@ -52,7 +52,6 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 [![Écoute sur Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge&size=large)](https://open.spotify.com/intl-fr/artist/3LOgBPOUZe1PuvLr7U7cDB?si=gL3orSrJTVmXaoYVcuIM-w)
 
 ## 🧩 Cursus Ecole 42 
----
 </div>
 
 <div align="center">
@@ -70,13 +69,6 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/minishelle.png)</a>
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/cppn.png)</a>
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/netpracticen.png)</a>
-</div>
-
----
-   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Julien-Quinodoz&theme=react-dark&hide_border=true"/>
-   
-</div>
-
 <div align="center">
 
 ## 🎓 Parcours académique
@@ -85,6 +77,14 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 - 📊 HES Ritzy TechnoPôle Sierre - diplôme LHR/GBB Valais
 - 📊 HES Ritzy Sierre - diplôme gestionnaire e-marketing et réseaux sociaux
 - 🏗️ Centre de Formation Professionnelle Sion  - CFC de mécatronicien automobile
+
+---
+
+   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Julien-Quinodoz&theme=react-dark&hide_border=true"/>
+   
+</div>
+
+<div align="center">
 
 ## 📫 Me contacter
 
