@@ -35,6 +35,8 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
     <img src="https://drive.google.com/uc?export=view&id=1UKmvQdVRIH4f_LIQk3k6EUjymWSIyCqT" alt="Image 2" width="300" style="object-fit: contain;"/>
 </div>
 
+
+
 ## 🚀 À propos
 
 - 💼 Fondateur et dirigeant de plusieurs entreprises à succès : Fresh Services Sàrl, HEJ Grain de Sel Sàrl & DJE Penalty sàrl.
