@@ -1,4 +1,4 @@
-je<!--PREMIER compteur (bug a controler) -->
+<!--PREMIER compteur (bug a controler) -->
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Julien-Quinodoz.Julien-Quinodoz">
 
 <!-- Nouveau compteur Komarev aligné à droite DE RESERVE -->
