@@ -124,6 +124,3 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 <tr><td align='center'><img src='https://github.com/jelspace.png' width='50' height='50'><br><strong>jelspace</strong><br><a href='https://github.com/jelspace'>Profil</a></td><td align='center' style='opacity:0.7;'><a href='https://github.com/Julien-Quinodoz?tab=followers' target='_blank'><img src='https://drive.google.com/uc?id=1MabxgCT39On1bnoQ-4huFuiWVSRWUPPS' width='50' height='50'><br><strong>Your head here!</strong></a></td><td align='center'><img src='https://github.com/cannibaIs.png' width='50' height='50'><br><strong>cannibaIs</strong><br><a href='https://github.com/cannibaIs'>Profil</a></td><td align='center'><img src='https://github.com/Marjo412.png' width='50' height='50'><br><strong>Marjo412</strong><br><a href='https://github.com/Marjo412'>Profil</a></td><td align='center' style='opacity:0.7;'><a href='https://github.com/Julien-Quinodoz?tab=followers' target='_blank'><img src='https://drive.google.com/uc?id=1MabxgCT39On1bnoQ-4huFuiWVSRWUPPS' width='50' height='50'><br><strong>Your head here!</strong></a></td><td align='center'><img src='https://github.com/LaSturn.png' width='50' height='50'><br><strong>LaSturn</strong><br><a href='https://github.com/LaSturn'>Profil</a></td></tr>
 
 </table>
-
-
-
