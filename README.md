@@ -124,3 +124,5 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 <tr><td align='center'><img src='https://github.com/standardgalactic.png' width='50' height='50'><br><strong>standardgalactic</strong><br><a href='https://github.com/standardgalactic'>Profil</a></td><td align='center'><img src='https://github.com/0yech.png' width='50' height='50'><br><strong>0yech</strong><br><a href='https://github.com/0yech'>Profil</a></td><td align='center'><img src='https://github.com/pasqualerossi.png' width='50' height='50'><br><strong>pasqualerossi</strong><br><a href='https://github.com/pasqualerossi'>Profil</a></td><td align='center'><img src='https://github.com/LaSturn.png' width='50' height='50'><br><strong>LaSturn</strong><br><a href='https://github.com/LaSturn'>Profil</a></td><td align='center'><img src='https://github.com/sIavic.png' width='50' height='50'><br><strong>sIavic</strong><br><a href='https://github.com/sIavic'>Profil</a></td><td align='center'><img src='https://github.com/schalkventer.png' width='50' height='50'><br><strong>schalkventer</strong><br><a href='https://github.com/schalkventer'>Profil</a></td></tr>
 
 </table>
+
+
