@@ -75,6 +75,7 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/netpracticem.png)</a>
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/cub3dm.png)</a>
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/inceptionn.png)</a>
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/webservn.png)</a>
 
 <div align="center">
 
