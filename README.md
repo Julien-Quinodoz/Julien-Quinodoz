@@ -61,7 +61,8 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 <div align="center">
 
 <!-- EXEMPLE AVEC LIEN : <a href="https://github.com/MJulien-Quinodoz/42_push_swap">![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/push_swape.png)</a> -->
-  
+
+</a><img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/Piscine_42_lausanne.png" alt="42 Badge" width="300">
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/libftm.png)</a>
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/ft_printfe.png)</a>
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/born2berootm.png)</a>
