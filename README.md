@@ -61,7 +61,7 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 <div align="center">
 
 <!-- EXEMPLE AVEC LIEN : <a href="https://github.com/MJulien-Quinodoz/42_push_swap">![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/push_swape.png)</a> -->
-
+<!--
 </a><img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/Piscine_42_lausanne.png" alt="42 Badge" width="300">
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/libftm.png)</a>
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/ft_printfe.png)</a>
@@ -78,9 +78,9 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/inceptionn.png)</a>
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/webservn.png)</a>
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/ft_transcendencen.png)</a>
-
+-->
 <p align="center">
-  <a href="https://github.com/Julien-Quinodoz/piscine">
+  <a href="https://github.com/Julien-Quinodoz/Piscine_42">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/Piscine_42_lausanne.png" alt="Piscine" width="200">
   </a>
 </p>
@@ -89,43 +89,43 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
   <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/libft">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/libftm.png" alt="Libft" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/ft_printf">
+  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/ft_Printf">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/born2beroot">
+  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Born2beroot">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/born2berootm.png" alt="Born2beroot" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/get_next_line">
+  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Get-next-line">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/get_next_linem.png" alt="get_next_line" width="150">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Julien-Quinodoz/minitalk">
+  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Minitalk">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/minitalkm.png" alt="Minitalk" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/push_swap">
+  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Push_Swap">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/push_swapm.png" alt="push_swap" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/so_long">
+  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/So_long">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/so_longm.png" alt="so_long" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/philosophers">
+  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Philosophers">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/philosopherse.png" alt="Philosophers" width="150">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Julien-Quinodoz/minishell">
+  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/MiniShell">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/minishelle.png" alt="Minishell" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/cpp">
+  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Cpp">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/cppe.png" alt="CPP" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/netpractice">
+  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/NetPractice">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/netpracticem.png" alt="NetPractice" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/cub3d">
+  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Cub3D">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/cub3dm.png" alt="cub3D" width="150">
   </a>
 </p>
