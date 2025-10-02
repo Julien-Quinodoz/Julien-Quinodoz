@@ -78,6 +78,7 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/webservn.png)</a>
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/ft_transcendencen.png)</a>
 
+
 <div align="center">
 
 ## 🎓 Parcours académique
@@ -128,3 +129,6 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 <tr><td align='center'><img src='https://github.com/lsadikaj.png' width='50' height='50'><br><strong>lsadikaj</strong><br><a href='https://github.com/lsadikaj'>Profil</a></td><td align='center'><img src='https://github.com/DChell07.png' width='50' height='50'><br><strong>DChell07</strong><br><a href='https://github.com/DChell07'>Profil</a></td><td align='center'><img src='https://github.com/Nesplee.png' width='50' height='50'><br><strong>Nesplee</strong><br><a href='https://github.com/Nesplee'>Profil</a></td><td align='center' style='opacity:0.7;'><a href='https://github.com/Julien-Quinodoz?tab=followers' target='_blank'><img src='https://drive.google.com/uc?id=1MabxgCT39On1bnoQ-4huFuiWVSRWUPPS' width='50' height='50'><br><strong>Your head here!</strong></a></td><td align='center'><img src='https://github.com/buraksocial.png' width='50' height='50'><br><strong>buraksocial</strong><br><a href='https://github.com/buraksocial'>Profil</a></td><td align='center'><img src='https://github.com/AwTaS.png' width='50' height='50'><br><strong>AwTaS</strong><br><a href='https://github.com/AwTaS'>Profil</a></td></tr>
 
 </table>
+
+![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/42_logo.svg)</a>
+
