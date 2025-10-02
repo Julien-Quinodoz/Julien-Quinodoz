@@ -130,5 +130,5 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 </table>
 
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/42_logo.svg)</a>
+<img src="https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/42_logo.svg" alt="42 Badge" width="500">
 
