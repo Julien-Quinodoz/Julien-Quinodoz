@@ -79,6 +79,70 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/webservn.png)</a>
 ![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/ft_transcendencen.png)</a>
 
+<p align="center">
+  <a href="https://github.com/Julien-Quinodoz/piscine">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/Piscine_42_lausanne.png" alt="Piscine" width="200">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/libft">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/libftm.png" alt="Libft" width="150">
+  </a>
+  <a href="https://github.com/Julien-Quinodoz/ft_printf">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf" width="150">
+  </a>
+  <a href="https://github.com/Julien-Quinodoz/born2beroot">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/born2berootm.png" alt="Born2beroot" width="150">
+  </a>
+  <a href="https://github.com/Julien-Quinodoz/get_next_line">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/get_next_linem.png" alt="get_next_line" width="150">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Julien-Quinodoz/minitalk">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/minitalkm.png" alt="Minitalk" width="150">
+  </a>
+  <a href="https://github.com/Julien-Quinodoz/push_swap">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/push_swapm.png" alt="push_swap" width="150">
+  </a>
+  <a href="https://github.com/Julien-Quinodoz/so_long">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/so_longm.png" alt="so_long" width="150">
+  </a>
+  <a href="https://github.com/Julien-Quinodoz/philosophers">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/philosopherse.png" alt="Philosophers" width="150">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Julien-Quinodoz/minishell">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/minishelle.png" alt="Minishell" width="150">
+  </a>
+  <a href="https://github.com/Julien-Quinodoz/cpp">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/cppe.png" alt="CPP" width="150">
+  </a>
+  <a href="https://github.com/Julien-Quinodoz/netpractice">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/netpracticem.png" alt="NetPractice" width="150">
+  </a>
+  <a href="https://github.com/Julien-Quinodoz/cub3d">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/cub3dm.png" alt="cub3D" width="150">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Julien-Quinodoz/inception">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/inceptionn.png" alt="Inception" width="150">
+  </a>
+  <a href="https://github.com/Julien-Quinodoz/webserv">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/webservn.png" alt="Webserv" width="150">
+  </a>
+  <a href="https://github.com/Julien-Quinodoz/ft_transcendence">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/ft_transcendencen.png" alt="ft_transcendence" width="150">
+  </a>
+</p>
+
+
 
 <div align="center">
 
