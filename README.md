@@ -131,13 +131,13 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 </p>
 
 <p align="center">
-  <a href="https://github.com/Julien-Quinodoz/inception">
+  <a href="https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/Projet_42_en_cours.png">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/inceptionn.png" alt="Inception" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/webserv">
+  <a href="https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/Projet_42_en_cours.png">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/webservn.png" alt="Webserv" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/ft_transcendence">
+  <a href="https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/Projet_42_en_cours.png">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/ft_transcendencen.png" alt="ft_transcendence" width="150">
   </a>
 </p>
