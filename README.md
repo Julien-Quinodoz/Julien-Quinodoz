@@ -194,3 +194,5 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 <tr><td align='center'><img src='https://github.com/RaulBatista1912.png' width='50' height='50'><br><strong>RaulBatista1912</strong><br><a href='https://github.com/RaulBatista1912'>Profil</a></td><td align='center'><img src='https://github.com/daniel149afonso.png' width='50' height='50'><br><strong>daniel149afonso</strong><br><a href='https://github.com/daniel149afonso'>Profil</a></td><td align='center'><img src='https://github.com/LaSturn.png' width='50' height='50'><br><strong>LaSturn</strong><br><a href='https://github.com/LaSturn'>Profil</a></td><td align='center'><img src='https://github.com/AwTaS.png' width='50' height='50'><br><strong>AwTaS</strong><br><a href='https://github.com/AwTaS'>Profil</a></td><td align='center'><img src='https://github.com/Marjo412.png' width='50' height='50'><br><strong>Marjo412</strong><br><a href='https://github.com/Marjo412'>Profil</a></td><td align='center'><img src='https://github.com/Nesplee.png' width='50' height='50'><br><strong>Nesplee</strong><br><a href='https://github.com/Nesplee'>Profil</a></td></tr>
 
 </table>
+
+
