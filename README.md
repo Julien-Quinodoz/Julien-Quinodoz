@@ -26,9 +26,14 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/julien-quinodoz/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jquinodo@student.42lausanne.ch)
 
+Entrepreneur et chef d'entreprise avec 15+ ans d'expérience, j'élargis actuellement mes compétences dans la tech à l'[École 42 Lausanne](https://42lausanne.ch/).
 
-Entrepreneur et chef d'entreprise avec plus de 15 ans d'expérience dans la gestion d'entreprises dans les secteurs de la restauration et des services.
-Je suis actuellement étudiant en programmation informatique à l'[École 42 Lausanne](https://42lausanne.ch/) pour élargir mes compétences dans les technologies émergentes.
+
+### -> Recherche activement un stage développeur (Front/Back/DevOps/Full-Stack/...) 4 à 6 mois 
+###       disponible de suite ou à convenir  – Valais/Vaud pour validation mon Common Core de 42 <-
+
+
+Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux business. Je rejoins maintenant le monde du développement pour allier vision stratégique et expertise technique.
 
 [![jquinodo's 42 stats](https://badge.mediaplus.ma/greenbinary/jquinodo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
@@ -39,13 +44,13 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 </div>
 -->
 
-## 🚀 À propos
+##  À propos
 
-- 💼 Fondateur et dirigeant de plusieurs entreprises à succès : Fresh Services Sàrl, HEJ Grain de Sel Sàrl & DJE Penalty sàrl.
-- 🎓 Étudiant à l'École 42 Lausanne (2024-2027) - apprentissage du langage C & C++, résolution de problèmes.
-- 🌱 Toujours passionné par l'innovation et l'amélioration continue, ouvert aux opportunités dans la tech et le digital.
+- > Fondateur et dirigeant de plusieurs entreprises à succès : Fresh Services Sàrl, HEJ Grain de Sel Sàrl & DJE Penalty sàrl.
+- > Étudiant à l'École 42 Lausanne (2024-2027) - apprentissage du langage C & C++, résolution de problèmes.
+- > Toujours passionné par l'innovation et l'amélioration continue, ouvert aux opportunités dans la tech et le digital.
 
-## 🛠️ Compétences
+##  Compétences
 
 - **Entrepreneuriat** : Création et gestion d'entreprises performantes
 - **Management** : Leadership d'équipe, optimisation des processus opérationnels
@@ -55,7 +60,7 @@ Je suis actuellement étudiant en programmation informatique à l'[École 42 Lau
 
 [![Écoute sur Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge&size=large)](https://open.spotify.com/intl-fr/artist/3LOgBPOUZe1PuvLr7U7cDB?si=gL3orSrJTVmXaoYVcuIM-w)
 
-## 🧩 Cursus Ecole 42 
+##  Cursus Ecole 42 
 </div>
 
 <div align="center">
