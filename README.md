@@ -30,7 +30,7 @@ Entrepreneur et chef d'entreprise avec 15+ ans d'expérience, j'élargis actuell
 
 
 ### -> Recherche activement un stage développeur (Front/Back/DevOps/Full-Stack/...) 4 à 6 mois 
-###       disponible de suite ou à convenir  – Valais/Vaud pour validation mon Common Core de 42 <-
+###       disponible de suite ou à convenir  – Valais/Vaud pour validation de mon Common Core de 42 <-
 
 
 Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux business. Je rejoins maintenant le monde du développement pour allier vision stratégique et expertise technique.
