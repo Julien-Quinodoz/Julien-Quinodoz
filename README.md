@@ -28,7 +28,6 @@
 
 Entrepreneur et chef d'entreprise avec 15+ ans d'expérience, j'élargis actuellement mes compétences dans la tech à l'[École 42 Lausanne](https://42lausanne.ch/).
 
-
 ### -> Recherche activement un stage développeur (Front/Back/DevOps/Full-Stack/...) 4 à 6 mois 
 ###       disponible de suite ou à convenir  – Valais/Vaud pour validation de mon Common Core de 42 <-
 
@@ -46,9 +45,9 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 
 ##  À propos
 
-- > Fondateur et dirigeant de plusieurs entreprises à succès : Fresh Services Sàrl, HEJ Grain de Sel Sàrl & DJE Penalty sàrl.
-- > Étudiant à l'École 42 Lausanne (2024-2027) - apprentissage du langage C & C++, résolution de problèmes.
-- > Toujours passionné par l'innovation et l'amélioration continue, ouvert aux opportunités dans la tech et le digital.
+-  Fondateur et dirigeant de plusieurs entreprises à succès : Fresh Services Sàrl, HEJ Grain de Sel Sàrl & DJE Penalty sàrl.
+-  Étudiant à l'École 42 Lausanne (2024-2027) - apprentissage du langage C & C++, résolution de problèmes.
+-  Toujours passionné par l'innovation et l'amélioration continue, ouvert aux opportunités dans la tech et le digital.
 
 ##  Compétences
 
