@@ -91,53 +91,53 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 </p>
 
 <p align="center">
-  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/libft">
+  <a href="https://github.com/Julien-Quinodoz/42_project_01_libft">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/libftm.png" alt="Libft" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/ft_Printf">
+  <a href="https://github.com/Julien-Quinodoz/42_project_02_ft_Printf">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/ft_printfe.png" alt="ft_printf" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Born2beroot">
+  <a href="https://github.com/Julien-Quinodoz/42_project_03_Born2beroot">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/born2berootm.png" alt="Born2beroot" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Get-next-line">
+  <a href="https://github.com/Julien-Quinodoz/42_project_04_Get-Next-Line">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/get_next_linem.png" alt="get_next_line" width="150">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Minitalk">
+  <a href="https://github.com/Julien-Quinodoz/42_project_05_Minitalk">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/minitalkm.png" alt="Minitalk" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Push_Swap">
+  <a href="https://github.com/Julien-Quinodoz/42_project_06_Push_Swap">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/push_swapm.png" alt="push_swap" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/So_long">
+  <a href="https://github.com/Julien-Quinodoz/42_project_07_So_long">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/so_longm.png" alt="so_long" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Philosophers">
+  <a href="https://github.com/Julien-Quinodoz/42_project_08_Philosophers">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/philosopherse.png" alt="Philosophers" width="150">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/MiniShell">
+  <a href="https://github.com/Julien-Quinodoz/42_project_09_miniShell">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/minishelle.png" alt="Minishell" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Cpp">
+  <a href="https://github.com/Julien-Quinodoz/42_project_10_CPP
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/cppe.png" alt="CPP" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/NetPractice">
+  <a href="https://github.com/Julien-Quinodoz/42_project_11_NetPractice">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/netpracticem.png" alt="NetPractice" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/Common_Core_42/tree/main/Cub3D">
+  <a href="https://github.com/Julien-Quinodoz/42_project_12_Cub3D">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/cub3dm.png" alt="cub3D" width="150">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/Projet_42_en_cours.png">
-    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/inceptionn.png" alt="Inception" width="150">
+  <a href="https://github.com/Julien-Quinodoz/42_project_13_Inception">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/inceptionm.png" alt="Inception" width="150">
   </a>
   <a href="https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/Projet_42_en_cours.png">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/webservn.png" alt="Webserv" width="150">
