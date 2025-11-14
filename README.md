@@ -59,30 +59,21 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 
 [![Écoute sur Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge&size=large)](https://open.spotify.com/intl-fr/artist/3LOgBPOUZe1PuvLr7U7cDB?si=gL3orSrJTVmXaoYVcuIM-w)
 
-##  Cursus Ecole 42 
-</div>
 
+ ## 💻 Cursus École 42
 <div align="center">
 
-<!-- EXEMPLE AVEC LIEN : <a href="https://github.com/MJulien-Quinodoz/42_push_swap">![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/push_swape.png)</a> -->
-<!--
-</a><img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/Piscine_42_lausanne.png" alt="42 Badge" width="300">
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/libftm.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/ft_printfe.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/born2berootm.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/get_next_linem.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/minitalkm.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/push_swapm.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/so_longm.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/philosopherse.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/minishelle.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/cppe.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/netpracticem.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/cub3dm.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/inceptionn.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/webservn.png)</a>
-![42 Badge](https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/ft_transcendencen.png)</a>
--->
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Progression&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | % |
+|---------------------------------------------|---------------------------------------------|-----|
+|  Piscine                                   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | 100 |
+|  Common Core (Projects)                               | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️     | 86  |
+|  Common Core (Examens)                    | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️         | 83  |
+|  Progression Common Core                   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️             | 90  |
+|  Stage 4 - 6 mois                  | ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️             | 0  |
+
+</div>
+
+
 <p align="center">
   <a href="https://github.com/Julien-Quinodoz/Piscine_42">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/Piscine_42_lausanne.png" alt="Piscine" width="200">
