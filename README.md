@@ -137,6 +137,12 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
   </a>
 </p>
 
+<p align="center">
+  <a href="https://credsverse.com/credentials/5de82744-1d17-4331-b3b7-4c33d31ea5a1">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/Ecotic.png" alt="Ecotic" width="150">
+  </a>
+</p>
+
 
 
 <div align="center">
