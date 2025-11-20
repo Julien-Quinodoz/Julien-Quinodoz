@@ -69,7 +69,7 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 |  Common Core (Projects 12/14)              | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️     | 86  |
 |  Common Core (Examens 5/6)                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️         | 83  |
 |  Progression Common Core                   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️⬜️             | 90  |
-|  Stage 4 - 6 mois                  | ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️             | 0  |
+|  Stage 4 - 6 mois                          | ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️             | 0  |
 
 </div>
 
@@ -114,7 +114,7 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
   <a href="https://github.com/Julien-Quinodoz/42_project_09_miniShell">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/minishelle.png" alt="Minishell" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/42_project_10_CPP
+  <a href="https://github.com/Julien-Quinodoz/42_project_10_CPP">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/cppe.png" alt="CPP" width="150">
   </a>
   <a href="https://github.com/Julien-Quinodoz/42_project_11_NetPractice">
