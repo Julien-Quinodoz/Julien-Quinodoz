@@ -195,3 +195,5 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 <tr><td align='center'><img src='https://github.com/Rjot90.png' width='50' height='50'><br><strong>Rjot90</strong><br><a href='https://github.com/Rjot90'>Profil</a></td><td align='center'><img src='https://github.com/simon231442.png' width='50' height='50'><br><strong>simon231442</strong><br><a href='https://github.com/simon231442'>Profil</a></td><td align='center'><img src='https://github.com/schalkventer.png' width='50' height='50'><br><strong>schalkventer</strong><br><a href='https://github.com/schalkventer'>Profil</a></td><td align='center'><img src='https://github.com/K1rsN7.png' width='50' height='50'><br><strong>K1rsN7</strong><br><a href='https://github.com/K1rsN7'>Profil</a></td><td align='center'><img src='https://github.com/daniel149afonso.png' width='50' height='50'><br><strong>daniel149afonso</strong><br><a href='https://github.com/daniel149afonso'>Profil</a></td><td align='center'><img src='https://github.com/DChell07.png' width='50' height='50'><br><strong>DChell07</strong><br><a href='https://github.com/DChell07'>Profil</a></td></tr>
 
 </table>
+
+
