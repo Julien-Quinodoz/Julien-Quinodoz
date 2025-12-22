@@ -130,7 +130,7 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/inceptionm.png" alt="Inception" width="150">
   </a>
   <a href="https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/Projet_42_en_cours.png">
-    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/webservn.png" alt="Webserv" width="150">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/webservm.png" alt="Webserv" width="150">
   </a>
   <a href="https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/Projet_42_en_cours.png">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/ft_transcendencen.png" alt="ft_transcendence" width="150">
@@ -140,6 +140,9 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 <p align="center">
   <a href="https://credsverse.com/credentials/5de82744-1d17-4331-b3b7-4c33d31ea5a1">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/Ecotic.png" alt="Ecotic" width="150">
+  </a>
+  <a href="https://credsverse.com/credentials/43091dd7-72cf-45df-9215-d4dd15df813b">
+    <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/Ecotic2.png" alt="Ecotic" width="150">
   </a>
 </p>
 
