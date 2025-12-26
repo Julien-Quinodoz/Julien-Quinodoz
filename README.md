@@ -198,3 +198,6 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 <tr><td align='center'><img src='https://github.com/K1rsN7.png' width='50' height='50'><br><strong>K1rsN7</strong><br><a href='https://github.com/K1rsN7'>Profil</a></td><td align='center'><img src='https://github.com/schalkventer.png' width='50' height='50'><br><strong>schalkventer</strong><br><a href='https://github.com/schalkventer'>Profil</a></td><td align='center'><img src='https://github.com/oluiscabral.png' width='50' height='50'><br><strong>oluiscabral</strong><br><a href='https://github.com/oluiscabral'>Profil</a></td><td align='center'><img src='https://github.com/Maka-77x.png' width='50' height='50'><br><strong>Maka-77x</strong><br><a href='https://github.com/Maka-77x'>Profil</a></td><td align='center'><img src='https://github.com/Cwilliam22.png' width='50' height='50'><br><strong>Cwilliam22</strong><br><a href='https://github.com/Cwilliam22'>Profil</a></td><td align='center'><img src='https://github.com/isaiahrbs.png' width='50' height='50'><br><strong>isaiahrbs</strong><br><a href='https://github.com/isaiahrbs'>Profil</a></td></tr>
 
 </table>
+
+
+.
