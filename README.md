@@ -131,7 +131,7 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
   <a href="https://github.com/Julien-Quinodoz/42_project_13_Inception">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/inceptionm.png" alt="Inception" width="150">
   </a>
-  <a href="https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/Projet_42_en_cours.png">
+  <a href="https://github.com/Julien-Quinodoz/42_project_14_WebServ">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/webservm.png" alt="Webserv" width="150">
   </a>
   <a href="https://github.com/Julien-Quinodoz/42-project-badges/blob/main/badges/Projet_42_en_cours.png">
