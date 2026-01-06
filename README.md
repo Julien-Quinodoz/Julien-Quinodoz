@@ -26,7 +26,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/julien-quinodoz/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jquinodo@student.42lausanne.ch)
 
-Entrepreneur avec 15+ ans d’expérience, je développe actuellement mes compétences techniques 
+Entrepreneur avec 10+ ans d’expérience, je développe actuellement mes compétences techniques 
 à l'[École 42 Lausanne](https://42lausanne.ch/) , avec l’envie de m’engager dans une collaboration sur le long terme.
 
 ### -> Recherche activement un stage développeur (Front/Back/DevOps/Full-Stack/...) 4 à 6 mois 
