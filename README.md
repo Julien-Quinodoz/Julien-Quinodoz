@@ -68,10 +68,10 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 |---------------------------------------------|---------------------------------------------|-----|
 | Tests en ligne (sélection 400/3000 candidats)              | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩     | 100  |
 | Piscine (sélection 180/400 candidats)                                   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | 100 |
-|  Common Core (Projects 14/15)              | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️     | 93  |
+|  Common Core (Projects 14/15)              | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩    | 100  |
 |  Common Core (Examens 5/6)                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩         | 100  |
-|  Progression Common Core                   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜️             | 90  |
-|  Stage 4 - 6 mois                          | ⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️             | 0  |
+|  Progression Common Core                   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩             | 100  |
+|  Stage 4 - 6 mois                          | 🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️             | 10  |
 
 </div>
 
