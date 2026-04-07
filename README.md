@@ -29,8 +29,7 @@
 Entrepreneur avec 10+ ans d’expérience, je développe actuellement mes compétences techniques 
 à l'[École 42 Lausanne](https://42lausanne.ch/) , avec l’envie de m’engager dans une collaboration sur le long terme.
 
-### -> Recherche activement un stage développeur (Front/Back/DevOps/Full-Stack/...) 4 à 6 mois 
-###       disponible de suite ou à convenir  – Valais/Vaud pour validation de mon Common Core de 42 <-
+### -> Stagiaire Développeur Unity & VR @Génie Culturel | Étudiant École 42 Lausanne | C# • Serious Games <-
 
 
 Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux business. Je rejoins maintenant le monde du développement pour allier vision stratégique et expertise technique.
