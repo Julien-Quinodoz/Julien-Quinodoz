@@ -71,7 +71,7 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 |  Common Core (Projects 14/15)              | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩    | 100  |
 |  Common Core (Examens 5/6)                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩         | 100  |
 |  Progression Common Core                   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩             | 100  |
-|  Stage 4 - 6 mois                          | 🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️             | 10  |
+|  Stage 4 - 6 mois                          | 🟩🟩🟩🟩🟩🟩⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️⬜️             | 10  |
 
 </div>
 
