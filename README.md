@@ -9,7 +9,7 @@
 <!-- <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Salut,+tout+le+monde+👋+!;Welcome+to+my+github+🔥!;&center=true&size=27">
-  </a>  -->
+  </a> -->
 
   <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=2F81F7&size=50&center=true&vCenter=true&width=600&height=80&lines=Hey+There!+👋;Welcome+to+my+github+🔥!;" alt="Typing SVG" />
@@ -26,13 +26,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/julien-quinodoz/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:jquinodo@student.42lausanne.ch)
 
-Entrepreneur avec 10+ ans d’expérience, je développe actuellement mes compétences techniques 
-à l'[École 42 Lausanne](https://42lausanne.ch/) , avec l’envie de m’engager dans une collaboration sur le long terme.
+Entrepreneur avec 15+ ans d’expérience, j'ai complété mon common core de l'[École 42 Lausanne](https://42lausanne.ch/) pour allier vision stratégique et expertise technique. 
 
-### -> Stagiaire Développeur Unity & VR @Génie Culturel | Étudiant École 42 Lausanne | C# • Serious Games <-
+### -> Développeur Unity & XR @Génie Culturel | Diplômé École 42 Lausanne common core | C# • Serious Games <-
 
 
-Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux business. Je rejoins maintenant le monde du développement pour allier vision stratégique et expertise technique.
+Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux business. Je mets aujourd'hui cette double compétence au service du développement XR et de projets innovants sur le long terme.
 
 [![jquinodo's 42 stats](https://badge.mediaplus.ma/greenbinary/jquinodo?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
@@ -45,32 +44,32 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 
 ##  À propos
 
--  Fondateur et dirigeant de plusieurs entreprises: Fresh Services Sàrl, HEJ Grain de Sel Sàrl & DJE Penalty sàrl.
--  Étudiant à l'École 42 Lausanne (2024-2027) - apprentissage du langage C & C++, résolution de problèmes.
--  Toujours passionné par l'innovation et l'amélioration continue, ouvert aux opportunités dans la tech et le digital.
+-  **Développement & XR :** Diplômé common core de l’École 42 Lausanne, spécialisé en développement Unity/C# pour la réalité virtuelle et les serious games.
+-  **Parcours Entrepreneurial :** Ancien fondateur et dirigeant de plusieurs entreprises (Fresh Services Sàrl, HEJ Grain de Sel Sàrl & DJE Penalty sàrl) avec 15+ ans d'expérience.
+-  **Innovation & Audio :** Passionné par l’amélioration continue, la tech et la création sonore (DJ et producteur sous le pseudo **0x2A**).
 
 ##  Compétences
 
+- **Développement Tech & XR** : C#, C++, Unity, Réalité Virtuelle, FMOD, Docker, Plastic SCM
 - **Entrepreneuriat** : Création et gestion d'entreprises performantes
 - **Management** : Leadership d'équipe, optimisation des processus opérationnels
 - **Marketing digital** : Stratégie, fidélisation, gestion des réseaux sociaux
-- **Amélioration continue** : Optimisation et innovation dans les processus métiers
 - **DJ et producteur** : Passionné de musique Électronique :
 
 [![Écoute sur Spotify](https://img.shields.io/badge/Spotify-1DB954?logo=spotify&logoColor=white&style=for-the-badge&size=large)](https://open.spotify.com/intl-fr/artist/3LOgBPOUZe1PuvLr7U7cDB?si=gL3orSrJTVmXaoYVcuIM-w)
 
 
- ## Progression Cursus École 42 Lausanne
+  ## Progression Cursus École 42 Lausanne
 <div align="center">
 
 | Étapes  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Progression&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | % |
 |---------------------------------------------|---------------------------------------------|-----|
 | Tests en ligne (sélection 400/3000 candidats)              | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩     | 100  |
-| Piscine (sélection 180/400 candidats)                                   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | 100 |
-|  Common Core (Projects 14/15)              | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩    | 100  |
-|  Common Core (Examens 5/6)                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩         | 100  |
-|  Progression Common Core                   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩             | 100  |
-|  Stage 4 - 6 mois                          | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩             | 100  |
+| Piscine (sélection 180/400 candidats)                             | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩 | 100 |
+|  Common Core (Projects 15/15)              | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩    | 100  |
+|  Common Core (Examens 6/6)                 | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩         | 100  |
+|  Progression Common Core                   | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩            | 100  |
+|  Stage 4 - 6 mois (Génie Culturel)         | 🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩            | 100  |
 
 </div>
 
@@ -153,7 +152,7 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 
 ## 🎓 Parcours académique
 
-- 🖥️ École 42 Lausanne (2024-2027) - Programmation informatique
+- 🖥️ École 42 Lausanne (2024-2027) - Tronc commun validé / Programmation informatique
 - 📊 HES Ritzy TechnoPôle Sierre - diplôme LHR/GBB Valais
 - 📊 HES Ritzy Sierre - diplôme gestionnaire e-marketing et réseaux sociaux
 - 🏗️ Centre de Formation Professionnelle Sion  - CFC de mécatronicien automobile
@@ -171,8 +170,8 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 - 📍 Basé à Sion, Suisse
 
      [![Discord](https://img.shields.io/badge/-Discord-000?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/VGF4pVYh)
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/julien-quinodoz/)
- [![Email](https://img.shields.io/badge/-Email-000?logo=gmail&logoColor=white&style=flat-square)](mailto:jquinodo@student.42lausanne.ch)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/julien-quinodoz/)
+  [![Email](https://img.shields.io/badge/-Email-000?logo=gmail&logoColor=white&style=flat-square)](mailto:jquinodo@student.42lausanne.ch)
 - ✉️ Disponible pour des collaborations et projets innovants
 
 ---
@@ -196,6 +195,6 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 <tr><td align='center'><img src='https://github.com/IDouble.png' width='50' height='50'><br><strong>IDouble</strong><br><a href='https://github.com/IDouble'>Profil</a></td><td align='center'><img src='https://github.com/simon231442.png' width='50' height='50'><br><strong>simon231442</strong><br><a href='https://github.com/simon231442'>Profil</a></td><td align='center'><img src='https://github.com/isaiahrbs.png' width='50' height='50'><br><strong>isaiahrbs</strong><br><a href='https://github.com/isaiahrbs'>Profil</a></td><td align='center'><img src='https://github.com/0yech.png' width='50' height='50'><br><strong>0yech</strong><br><a href='https://github.com/0yech'>Profil</a></td><td align='center'><img src='https://github.com/oluiscabral.png' width='50' height='50'><br><strong>oluiscabral</strong><br><a href='https://github.com/oluiscabral'>Profil</a></td><td align='center'><img src='https://github.com/Nesplee.png' width='50' height='50'><br><strong>Nesplee</strong><br><a href='https://github.com/Nesplee'>Profil</a></td></tr>
 <tr><td align='center'><img src='https://github.com/jelspace.png' width='50' height='50'><br><strong>jelspace</strong><br><a href='https://github.com/jelspace'>Profil</a></td><td align='center'><img src='https://github.com/DIMFLIX.png' width='50' height='50'><br><strong>DIMFLIX</strong><br><a href='https://github.com/DIMFLIX'>Profil</a></td><td align='center'><img src='https://github.com/pwnedroot.png' width='50' height='50'><br><strong>pwnedroot</strong><br><a href='https://github.com/pwnedroot'>Profil</a></td><td align='center'><img src='https://github.com/SaperlipopetteMaSalopette.png' width='50' height='50'><br><strong>SaperlipopetteMaSalopette</strong><br><a href='https://github.com/SaperlipopetteMaSalopette'>Profil</a></td><td align='center'><img src='https://github.com/DChell07.png' width='50' height='50'><br><strong>DChell07</strong><br><a href='https://github.com/DChell07'>Profil</a></td><td align='center'><img src='https://github.com/Maka-77x.png' width='50' height='50'><br><strong>Maka-77x</strong><br><a href='https://github.com/Maka-77x'>Profil</a></td></tr>
 <tr><td align='center'><img src='https://github.com/LaSturn.png' width='50' height='50'><br><strong>LaSturn</strong><br><a href='https://github.com/LaSturn'>Profil</a></td><td align='center'><img src='https://github.com/lsadikaj.png' width='50' height='50'><br><strong>lsadikaj</strong><br><a href='https://github.com/lsadikaj'>Profil</a></td><td align='center'><img src='https://github.com/pasqualerossi.png' width='50' height='50'><br><strong>pasqualerossi</strong><br><a href='https://github.com/pasqualerossi'>Profil</a></td><td align='center'><img src='https://github.com/stellaaash.png' width='50' height='50'><br><strong>stellaaash</strong><br><a href='https://github.com/stellaaash'>Profil</a></td><td align='center'><img src='https://github.com/Keereslame.png' width='50' height='50'><br><strong>Keereslame</strong><br><a href='https://github.com/Keereslame'>Profil</a></td><td align='center'><img src='https://github.com/Nai64.png' width='50' height='50'><br><strong>Nai64</strong><br><a href='https://github.com/Nai64'>Profil</a></td></tr>
-<tr><td align='center'><img src='https://github.com/Rodrigotari1.png' width='50' height='50'><br><strong>Rodrigotari1</strong><br><a href='https://github.com/Rodrigotari1'>Profil</a></td><td align='center'><img src='https://github.com/AwTaS.png' width='50' height='50'><br><strong>AwTaS</strong><br><a href='https://github.com/AwTaS'>Profil</a></td><td align='center'><img src='https://github.com/cloutswagsauce.png' width='50' height='50'><br><strong>cloutswagsauce</strong><br><a href='https://github.com/cloutswagsauce'>Profil</a></td><td align='center'><img src='https://github.com/fermincasquero.png' width='50' height='50'><br><strong>fermincasquero</strong><br><a href='https://github.com/fermincasquero'>Profil</a></td><td align='center'><img src='https://github.com/standardgalactic.png' width='50' height='50'><br><strong>standardgalactic</strong><br><a href='https://github.com/standardgalactic'>Profil</a></td><td align='center'><img src='https://github.com/andyst-dev.png' width='50' height='50'><br><strong>andyst-dev</strong><br><a href='https://github.com/andyst-dev'>Profil</a></td></tr>
+<tr><td align='center'><img src='https://github.com/Rodrigotari1.png' width='50' height='50'><br><strong>Rodrigotari1</strong><br><a href='https://github.com/Rodrigotari1'>Profil</a></td><td align='center'><img src='https://github.com/AwTaS.png' width='50' height='50'><br><strong>AwTaS</strong><br><a href='https://github.com/AwTaS'>Profil</a></td><td align='center'><img src='https://github.com/cloutswagsauce.png' width='50' height='50'><br><strong>cloutswagsauce</strong><br><a href='https://github.com/cloutswagsauce'>Profil</a></td><td align='center'><img src='https://github.com/fermincasquero.png' width='50' height='50'><br><strong>fermincasquero</strong><br><a href='https://github.com/fermincasquero'>Profil</a></td><td align='center'><img src='https://github.com/standardgalactic.png' width='50' height='50'><br><strong>standardgalactic</strong><br><a href='https://github.com/andyst-dev.png' width='50' height='50'><br><strong>andyst-dev</strong><br><a href='https://github.com/andyst-dev'>Profil</a></td></tr>
 
 </table>
