@@ -154,7 +154,7 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 
 <p align="center">
   <a href="https://www.skills.google/public_profiles/36b06984-74d0-4c99-86cf-0cee8f8e3a84/badges/28930097">
-    <img src="https://cdn.qwiklabs.com/z2y6RtTCM6P9ABcrBEk4oGL9iQtcxrMRQfn3vH%2FCWMo%3D" alt="Introduction to Generative AI" width="200">
+    <img src="assets/introduction-to-generative-ai.png" alt="Introduction to Generative AI" width="190">
   </a>
 </p>
 
