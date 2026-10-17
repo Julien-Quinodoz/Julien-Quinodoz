@@ -162,10 +162,10 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 
 ## 🎓 Parcours académique
 
-- 🖥️ École 42 Lausanne (2024-2027) - Tronc commun validé / Programmation informatique
-- 📊 HES Ritzy TechnoPôle Sierre - diplôme LHR/GBB Valais
-- 📊 HES Ritzy Sierre - diplôme gestionnaire e-marketing et réseaux sociaux
-- 🏗️ Centre de Formation Professionnelle Sion  - CFC de mécatronicien automobile
+- École 42 Lausanne (2024-2027) - Tronc commun validé / Programmation informatique
+- HES Ritzy TechnoPôle Sierre - diplôme LHR/GBB Valais
+- HES Ritzy Sierre - diplôme gestionnaire e-marketing et réseaux sociaux
+- Centre de Formation Professionnelle Sion  - CFC de mécatronicien automobile
 
 ---
 
