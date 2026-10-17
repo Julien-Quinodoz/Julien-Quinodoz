@@ -177,18 +177,18 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
 
 ## 📫 Me contacter
 
-- 📍 Basé à Sion, Suisse
+- Basé à Sion, Suisse
 
      [![Discord](https://img.shields.io/badge/-Discord-000?logo=discord&logoColor=white&style=flat-square)](https://discord.gg/VGF4pVYh)
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/julien-quinodoz/)
   [![Email](https://img.shields.io/badge/-Email-000?logo=gmail&logoColor=white&style=flat-square)](mailto:jquinodo@student.42lausanne.ch)
-- ✉️ Disponible pour des collaborations et projets innovants
+- Disponible pour des collaborations et projets innovants
 
 ---
 
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Julien-Quinodoz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=Julien-Quinodoz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Julien-Quinodoz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
