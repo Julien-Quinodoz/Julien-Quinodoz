@@ -144,6 +144,9 @@ Mon parcours entrepreneurial m'a donné une compréhension unique des enjeux bus
   <a href="https://credsverse.com/credentials/43091dd7-72cf-45df-9215-d4dd15df813b">
     <img src="https://raw.githubusercontent.com/Julien-Quinodoz/42-project-badges/main/badges/Ecotic2.png" alt="Ecotic" width="150">
   </a>
+  <a href="https://www.skills.google/public_profiles/36b06984-74d0-4c99-86cf-0cee8f8e3a84/badges/28930097">
+    <img src="https://cdn.qwiklabs.com/z2y6RtTCM6P9ABcrBEk4oGL9iQtcxrMRQfn3vH%2FCWMo%3D" alt="Introduction to Generative AI" width="150">
+  </a>
 </p>
 
 
